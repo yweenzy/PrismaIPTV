@@ -1,0 +1,1525 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E FHD H265
+http://srv.tvprodigital.net:80/110175/110175/9344
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61196
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E HD ²
+http://srv.tvprodigital.net:80/110175/110175/60935
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E HD¹
+http://srv.tvprodigital.net:80/110175/110175/8139
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E SD ²
+http://srv.tvprodigital.net:80/110175/110175/60934
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E SD¹
+http://srv.tvprodigital.net:80/110175/110175/4404
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58493
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC FHD H265
+http://srv.tvprodigital.net:80/110175/110175/9343
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61194
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC HD ²
+http://srv.tvprodigital.net:80/110175/110175/60933
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC HD²
+http://srv.tvprodigital.net:80/110175/110175/20890
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC HD¹
+http://srv.tvprodigital.net:80/110175/110175/7691
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC SD ²
+http://srv.tvprodigital.net:80/110175/110175/60932
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC SD*
+http://srv.tvprodigital.net:80/110175/110175/20891
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC SD¹
+http://srv.tvprodigital.net:80/110175/110175/7448
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",ANIMAL PLANET FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13205
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",ANIMAL PLANET Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61229
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",ANIMAL PLANET HD ²
+http://srv.tvprodigital.net:80/110175/110175/61073
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",ANIMAL PLANET HD¹
+http://srv.tvprodigital.net:80/110175/110175/6142
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",ANIMAL PLANET SD ²
+http://srv.tvprodigital.net:80/110175/110175/61072
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",ANIMAL PLANET SD¹
+http://srv.tvprodigital.net:80/110175/110175/4403
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png",ARTE 1 Full_HD H265  ²
+http://srv.tvprodigital.net:80/110175/110175/61195
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png",ARTE 1 HD ²
+http://srv.tvprodigital.net:80/110175/110175/60931
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png",ARTE 1 SD ²
+http://srv.tvprodigital.net:80/110175/110175/60930
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png",AXN FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13212
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png",AXN Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61197
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58509
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png",AXN HD ²
+http://srv.tvprodigital.net:80/110175/110175/60937
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png",AXN HD¹
+http://srv.tvprodigital.net:80/110175/110175/6140
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",AXN SD ²
+http://srv.tvprodigital.net:80/110175/110175/60936
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN SD¹
+http://srv.tvprodigital.net:80/110175/110175/4402
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png",BABY HD ²
+http://srv.tvprodigital.net:80/110175/110175/61100
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png",BABY TV SD ²
+http://srv.tvprodigital.net:80/110175/110175/61099
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png",BABY TV SD¹
+http://srv.tvprodigital.net:80/110175/110175/4401
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND ARACAJU HD¹
+http://srv.tvprodigital.net:80/110175/110175/24752
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND BAHIA SD¹
+http://srv.tvprodigital.net:80/110175/110175/30427
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND CAMPINAS HD ²
+http://srv.tvprodigital.net:80/110175/110175/60866
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND CAMPINAS HD¹
+http://srv.tvprodigital.net:80/110175/110175/33280
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61314
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND GOIANIA FHD  H265
+http://srv.tvprodigital.net:80/110175/110175/30438
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND GOIANIA HD¹
+http://srv.tvprodigital.net:80/110175/110175/25019
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND HD
+http://srv.tvprodigital.net:80/110175/110175/60862
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND HD¹
+http://srv.tvprodigital.net:80/110175/110175/6882
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png",BAND NEWS FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11536
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND NEWS Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61281
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND NEWS HD
+http://srv.tvprodigital.net:80/110175/110175/61135
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND NEWS SD
+http://srv.tvprodigital.net:80/110175/110175/61134
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png",BAND NEWS SD¹
+http://srv.tvprodigital.net:80/110175/110175/4399
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND RJ Full_HD 265 ²
+http://srv.tvprodigital.net:80/110175/110175/61315
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND RJ HD ²
+http://srv.tvprodigital.net:80/110175/110175/60864
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND RJ HD¹
+http://srv.tvprodigital.net:80/110175/110175/25542
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND RJ SD ²
+http://srv.tvprodigital.net:80/110175/110175/60863
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND RS HD¹
+http://srv.tvprodigital.net:80/110175/110175/25018
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND SD ²
+http://srv.tvprodigital.net:80/110175/110175/60861
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND SD¹
+http://srv.tvprodigital.net:80/110175/110175/4400
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",BAND SP HD ²
+http://srv.tvprodigital.net:80/110175/110175/60865
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png",BAND SPORTS FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11535
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png",BAND SPORTS Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61254
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png",BAND SPORTS HD
+http://srv.tvprodigital.net:80/110175/110175/61027
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png",BAND SPORTS HD¹
+http://srv.tvprodigital.net:80/110175/110175/6138
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png",BAND SPORTS SD
+http://srv.tvprodigital.net:80/110175/110175/61028
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61274
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS HD
+http://srv.tvprodigital.net:80/110175/110175/61159
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS HD¹
+http://srv.tvprodigital.net:80/110175/110175/6881
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS SD ²
+http://srv.tvprodigital.net:80/110175/110175/61158
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS SD¹
+http://srv.tvprodigital.net:80/110175/110175/6964
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",BOB ESPONJA 24HRS
+http://srv.tvprodigital.net:80/110175/110175/34867
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11534
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61242
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG HD ²
+http://srv.tvprodigital.net:80/110175/110175/61102
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG SD ²
+http://srv.tvprodigital.net:80/110175/110175/61101
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG SD¹
+http://srv.tvprodigital.net:80/110175/110175/4396
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58496
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg",CAMPEONATO CATARINENSE (JOGO 1)
+http://srv.tvprodigital.net:80/110175/110175/34636
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png",CANAL BRASIL SD¹
+http://srv.tvprodigital.net:80/110175/110175/6963
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png",CANAL DO BOI SD¹
+http://srv.tvprodigital.net:80/110175/110175/11287
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png",CANAL SONY FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13202
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png",CANAL SONY HD¹
+http://srv.tvprodigital.net:80/110175/110175/6961
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png",CANAL SONY SD¹
+http://srv.tvprodigital.net:80/110175/110175/4395
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",CANCAO NOVA SD¹
+http://srv.tvprodigital.net:80/110175/110175/30662
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png",CANCAO NOVA SD¹
+http://srv.tvprodigital.net:80/110175/110175/6173
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",CARTOON NETWORK FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13210
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",CARTOON NETWORK Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61243
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",CARTOON NETWORK HD ²
+http://srv.tvprodigital.net:80/110175/110175/61104
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",CARTOON NETWORK HD¹
+http://srv.tvprodigital.net:80/110175/110175/7817
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",CARTOON NETWORK SD ²
+http://srv.tvprodigital.net:80/110175/110175/61103
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",CARTOON NETWORK SD¹
+http://srv.tvprodigital.net:80/110175/110175/4394
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",CEAK TV ESRITA SP
+http://srv.tvprodigital.net:80/110175/110175/61152
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",CEAK TV  SD (ESPIRITA)
+http://srv.tvprodigital.net:80/110175/110175/61154
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE 06 ²
+http://srv.tvprodigital.net:80/110175/110175/61025
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE 07 ²
+http://srv.tvprodigital.net:80/110175/110175/60956
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE 08 ²
+http://srv.tvprodigital.net:80/110175/110175/60957
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE 09 ²
+http://srv.tvprodigital.net:80/110175/110175/60958
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE 10 ²
+http://srv.tvprodigital.net:80/110175/110175/60959
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE MARVEL VS DC
+http://srv.tvprodigital.net:80/110175/110175/60960
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",DISCOVERY THEATER Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61233
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",DISCOVERY THEATER HD
+http://srv.tvprodigital.net:80/110175/110175/61079
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",DISCOVERY THEATER HD¹
+http://srv.tvprodigital.net:80/110175/110175/6130
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",DISCOVERY THEATER SD ²
+http://srv.tvprodigital.net:80/110175/110175/61078
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png",DISCOVERY TURBO FHD H265 ¹
+http://srv.tvprodigital.net:80/110175/110175/11531
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png",DISCOVERY TURBO Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61234
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png",DISCOVERY TURBO HD ²
+http://srv.tvprodigital.net:80/110175/110175/61077
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png",DISCOVERY TURBO HD¹
+http://srv.tvprodigital.net:80/110175/110175/6877
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png",DISCOVERY TURBO SD ²
+http://srv.tvprodigital.net:80/110175/110175/61076
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png",DISCOVERY TURBO SD¹
+http://srv.tvprodigital.net:80/110175/110175/4386
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",DISCOVERY WORLD Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61235
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",DISCOVERY WORLD HD ²
+http://srv.tvprodigital.net:80/110175/110175/61089
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",DISCOVERY WORLD HD¹
+http://srv.tvprodigital.net:80/110175/110175/6128
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",DISCOVERY WORLD SD ²
+http://srv.tvprodigital.net:80/110175/110175/61088
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",DISNEY CHANNEL FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11546
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISNEY CHANNEL Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61246
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISNEY CHANNEL HD ²
+http://srv.tvprodigital.net:80/110175/110175/61110
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",DISNEY CHANNEL HD¹
+http://srv.tvprodigital.net:80/110175/110175/7902
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISNEY CHANNEL SD ²
+http://srv.tvprodigital.net:80/110175/110175/61109
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",DISNEY CHANNEL SD¹
+http://srv.tvprodigital.net:80/110175/110175/4385
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png",DISNEY JR Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61247
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png",DISNEY JR HD ²
+http://srv.tvprodigital.net:80/110175/110175/61112
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png",DISNEY JR SD ²
+http://srv.tvprodigital.net:80/110175/110175/61111
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png",DISNEY JUNIOR FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13207
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png",DISNEY JUNIOR HD¹
+http://srv.tvprodigital.net:80/110175/110175/10286
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Junior_Logo.png",DISNEY JUNIOR SD¹
+http://srv.tvprodigital.net:80/110175/110175/4384
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",DISNEY XD HD ²
+http://srv.tvprodigital.net:80/110175/110175/61114
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",DISNEY XD SD ²
+http://srv.tvprodigital.net:80/110175/110175/61113
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",DISNEY XD SD¹
+http://srv.tvprodigital.net:80/110175/110175/4383
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",E! HD
+http://srv.tvprodigital.net:80/110175/110175/61161
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png",E! HD¹
+http://srv.tvprodigital.net:80/110175/110175/10285
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",E! SD
+http://srv.tvprodigital.net:80/110175/110175/61160
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png",CANAIS RESERVAS 1 HD¹
+http://srv.tvprodigital.net:80/110175/110175/32162
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11521
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61257
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61034
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6143
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61033
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 SD¹
+http://srv.tvprodigital.net:80/110175/110175/7988
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL Full_HD H265 2
+http://srv.tvprodigital.net:80/110175/110175/61258
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL HD ²
+http://srv.tvprodigital.net:80/110175/110175/61036
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL HD¹
+http://srv.tvprodigital.net:80/110175/110175/6124
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL SD ²
+http://srv.tvprodigital.net:80/110175/110175/61035
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL SD¹
+http://srv.tvprodigital.net:80/110175/110175/4380
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA  Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61259
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA HD ²
+http://srv.tvprodigital.net:80/110175/110175/61038
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA HD¹
+http://srv.tvprodigital.net:80/110175/110175/24788
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",ESPN EXTRA SD ²
+http://srv.tvprodigital.net:80/110175/110175/61037
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11545
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61256
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN HD ²
+http://srv.tvprodigital.net:80/110175/110175/61032
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN HD¹
+http://srv.tvprodigital.net:80/110175/110175/6127
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN MAIS  Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61260
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN SD ²
+http://srv.tvprodigital.net:80/110175/110175/61031
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN SD¹
+http://srv.tvprodigital.net:80/110175/110175/4381
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58488
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FILM & ARTS HD
+http://srv.tvprodigital.net:80/110175/110175/60963
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FILM & ARTS SD
+http://srv.tvprodigital.net:80/110175/110175/60962
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://s.tvmaster.net:80/tvpro/1211717/34756",FILM&ARTS SD¹
+http://srv.tvprodigital.net:80/110175/110175/11180
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FISH TV SD
+http://srv.tvprodigital.net:80/110175/110175/61039
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png",FISH TV SD¹
+http://srv.tvprodigital.net:80/110175/110175/4377
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png",FOOD NETWORK FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13196
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png",FOOD NETWORK Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61275
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png",FOOD NETWORK HD ²
+http://srv.tvprodigital.net:80/110175/110175/61163
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png",FOOD NETWORK HD¹
+http://srv.tvprodigital.net:80/110175/110175/7534
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png",FOOD NETWORK SD¹
+http://srv.tvprodigital.net:80/110175/110175/6959
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png",FOX FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58507
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png",FOX FHD H265
+http://srv.tvprodigital.net:80/110175/110175/9141
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FOX Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61199
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FOX HD
+http://srv.tvprodigital.net:80/110175/110175/60965
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png",FOX HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58508
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png",FOX HD¹
+http://srv.tvprodigital.net:80/110175/110175/6122
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61200
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE HD ²
+http://srv.tvprodigital.net:80/110175/110175/61165
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE HD ²
+http://srv.tvprodigital.net:80/110175/110175/61167
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE HD¹
+http://srv.tvprodigital.net:80/110175/110175/6876
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE SD ²
+http://srv.tvprodigital.net:80/110175/110175/61164
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOXlife_HD_Logo.png",FOX LIFE SD ²
+http://srv.tvprodigital.net:80/110175/110175/61166
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png",FOX LIFE SD¹
+http://srv.tvprodigital.net:80/110175/110175/4374
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",FOX NEWS Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61282
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",FOX NEWS HD
+http://srv.tvprodigital.net:80/110175/110175/61143
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",FOX NEWS SD
+http://srv.tvprodigital.net:80/110175/110175/61142
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",FOX PREMIUM 1 FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58510
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FOX PREMIUM 1  Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61201
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FOX PREMIUM 1 HD
+http://srv.tvprodigital.net:80/110175/110175/60967
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",FOX PREMIUM 1 HD
+http://srv.tvprodigital.net:80/110175/110175/60968
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",FOX PREMIUM 1 HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58511
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",GLOBO SP Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61302
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",GLOBO SP HD
+http://srv.tvprodigital.net:80/110175/110175/60847
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",GLOBO SP SD
+http://srv.tvprodigital.net:80/110175/110175/60848
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",GLOBO SP SD¹
+http://srv.tvprodigital.net:80/110175/110175/4431
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GLOOB FHD H265²
+http://srv.tvprodigital.net:80/110175/110175/60857
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GLOOB HD
+http://srv.tvprodigital.net:80/110175/110175/61117
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png",GLOOB HD¹
+http://srv.tvprodigital.net:80/110175/110175/7526
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GLOOB SD
+http://srv.tvprodigital.net:80/110175/110175/61116
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gloob.png",GLOOB SD¹
+http://srv.tvprodigital.net:80/110175/110175/4369
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GLOOBINHO FHD H265²
+http://srv.tvprodigital.net:80/110175/110175/61248
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GLOOBINHO HD
+http://srv.tvprodigital.net:80/110175/110175/61119
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GLOOBINHO SD
+http://srv.tvprodigital.net:80/110175/110175/61118
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/74e4a5f0ba3ea11e0b9715260014.png",GLOOBINHO SD¹
+http://srv.tvprodigital.net:80/110175/110175/10270
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GNT Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/60858
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GNT HD
+http://srv.tvprodigital.net:80/110175/110175/61169
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png",GNT HD¹
+http://srv.tvprodigital.net:80/110175/110175/6956
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",GNT SD
+http://srv.tvprodigital.net:80/110175/110175/61168
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png",GNT SD¹
+http://srv.tvprodigital.net:80/110175/110175/4368
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",Gostei Gospel Tv SP SD
+http://srv.tvprodigital.net:80/110175/110175/60928
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",H2 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13187
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",H2 Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61238
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",H2 HD
+http://srv.tvprodigital.net:80/110175/110175/61091
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",H2 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6111
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",H2 SD
+http://srv.tvprodigital.net:80/110175/110175/61090
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",H2 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4367
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png",HBO + PLUS HD (LEGENDADO)
+http://srv.tvprodigital.net:80/110175/110175/47751
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11567
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO 2 Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61204
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO 2 HD
+http://srv.tvprodigital.net:80/110175/110175/60976
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6110
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO 2 SD
+http://srv.tvprodigital.net:80/110175/110175/60975
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4365
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO EXTREME HD
+http://srv.tvprodigital.net:80/110175/110175/60986
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11568
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO FAMILY Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61205
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO FAMILY HD
+http://srv.tvprodigital.net:80/110175/110175/60978
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY HD¹
+http://srv.tvprodigital.net:80/110175/110175/6109
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO FAMILY SD
+http://srv.tvprodigital.net:80/110175/110175/60977
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY SD¹
+http://srv.tvprodigital.net:80/110175/110175/4364
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO FHD (LEGENDADO)
+http://srv.tvprodigital.net:80/110175/110175/47752
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58332
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11566
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61206
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO HD
+http://srv.tvprodigital.net:80/110175/110175/60974
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO HD ( CANAIS LENGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58333
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO HD¹
+http://srv.tvprodigital.net:80/110175/110175/6108
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO MUNDI FHD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58501
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO Mundi Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61209
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO MUNDI HD
+http://srv.tvprodigital.net:80/110175/110175/60984
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO MUNDI HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58502
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO MUNDI HD¹
+http://srv.tvprodigital.net:80/110175/110175/10266
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO MUNDI SD¹
+http://srv.tvprodigital.net:80/110175/110175/4358
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png",HBO PLUS FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58334
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png",HBO PLUS FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13190
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO PLUS Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61207
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO PLUS HD
+http://srv.tvprodigital.net:80/110175/110175/60980
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png",HBO PLUS HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58498
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png",HBO PLUS HD¹
+http://srv.tvprodigital.net:80/110175/110175/6106
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO PLUS SD
+http://srv.tvprodigital.net:80/110175/110175/60979
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png",HBO PLUS SD¹
+http://srv.tvprodigital.net:80/110175/110175/4363
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58503
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP FHD H265
+http://srv.tvprodigital.net:80/110175/110175/25015
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO Pop Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61211
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO POP HD
+http://srv.tvprodigital.net:80/110175/110175/60988
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58504
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP HD¹
+http://srv.tvprodigital.net:80/110175/110175/10265
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP SD¹
+http://srv.tvprodigital.net:80/110175/110175/4355
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO SD
+http://srv.tvprodigital.net:80/110175/110175/60973
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO SD¹
+http://srv.tvprodigital.net:80/110175/110175/4366
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURA HD (LEGENDADO)
+http://srv.tvprodigital.net:80/110175/110175/47754
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58499
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11570
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO SIGNATURE Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61208
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO SIGNATURE HD
+http://srv.tvprodigital.net:80/110175/110175/60982
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE HD  (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58500
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE HD¹
+http://srv.tvprodigital.net:80/110175/110175/6105
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO SIGNATURE SD
+http://srv.tvprodigital.net:80/110175/110175/60981
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE SD¹
+http://srv.tvprodigital.net:80/110175/110175/4361
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO XTREAM HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58506
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HBO Xtreme Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61210
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO XTREME HD¹
+http://srv.tvprodigital.net:80/110175/110175/7850
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO XTREME SD¹
+http://srv.tvprodigital.net:80/110175/110175/4357
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO XTREMEFHD H265
+http://srv.tvprodigital.net:80/110175/110175/25014
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",He-Man 24HRS
+http://srv.tvprodigital.net:80/110175/110175/34887
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1600px-HGTV_US_Logo_2015.svg.png",HGTV FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13208
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HGTV Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61237
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HGTV HD
+http://srv.tvprodigital.net:80/110175/110175/61098
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HGTV HD
+http://srv.tvprodigital.net:80/110175/110175/61085
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1600px-HGTV_US_Logo_2015.svg.png",HGTV HD¹
+http://srv.tvprodigital.net:80/110175/110175/7862
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HGTV SD
+http://srv.tvprodigital.net:80/110175/110175/61084
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1600px-HGTV_US_Logo_2015.svg.png",HGTV SD¹
+http://srv.tvprodigital.net:80/110175/110175/10236
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",HISTORY CHANNEL FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13211
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",HISTORY CHANNEL HD¹
+http://srv.tvprodigital.net:80/110175/110175/6104
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",HISTORY CHANNEL SD¹
+http://srv.tvprodigital.net:80/110175/110175/4314
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HISTORY HD
+http://srv.tvprodigital.net:80/110175/110175/61093
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",HISTORY SD
+http://srv.tvprodigital.net:80/110175/110175/61092
+
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",ID - INVESTIGACAO DISCOVERY FHD H265
+http://srv.tvprodigital.net:80/110175/110175/9143
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",ID - INVESTIGACAO DISCOVERY HD¹
+http://srv.tvprodigital.net:80/110175/110175/6869
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",ID - INVESTIGACAO DISCOVERY SD¹
+http://srv.tvprodigital.net:80/110175/110175/4360
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID DISCOVERY Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61236
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID DISCOVERY HD ²
+http://srv.tvprodigital.net:80/110175/110175/61083
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID DISCOVERY SD ²
+http://srv.tvprodigital.net:80/110175/110175/61082
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",ID Investigation Discovery FHD  H265
+http://srv.tvprodigital.net:80/110175/110175/30696
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",Incrível Hulk 24HRS
+http://srv.tvprodigital.net:80/110175/110175/34893
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png",InterTv Cabo Frio  HD¹
+http://srv.tvprodigital.net:80/110175/110175/34531
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",ITV - Canal Itu Tv SP SD
+http://srv.tvprodigital.net:80/110175/110175/60927
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58484
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58485
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO HD
+http://srv.tvprodigital.net:80/110175/110175/61095
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png",NATGEO KIDS FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13198
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO KIDS FHD H265
+http://srv.tvprodigital.net:80/110175/110175/61249
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO KIDS HD
+http://srv.tvprodigital.net:80/110175/110175/61121
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png",NATGEO KIDS HD¹
+http://srv.tvprodigital.net:80/110175/110175/10261
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO KIDS SD
+http://srv.tvprodigital.net:80/110175/110175/61120
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/natgeokids.png",NATGEO KIDS SD¹
+http://srv.tvprodigital.net:80/110175/110175/4350
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO SD
+http://srv.tvprodigital.net:80/110175/110175/61094
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NATGEO WILD FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11528
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO WILD HD
+http://srv.tvprodigital.net:80/110175/110175/61097
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NATGEO WILD HD¹
+http://srv.tvprodigital.net:80/110175/110175/6099
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO WILD SD
+http://srv.tvprodigital.net:80/110175/110175/61096
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NATGEO WILD SD¹
+http://srv.tvprodigital.net:80/110175/110175/4349
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NATGEO WILDFull_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61241
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NATIONAL GEOGRAPHY FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13188
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NATIONAL GEOGRAPHY HD¹
+http://srv.tvprodigital.net:80/110175/110175/6098
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NATIONAL GEOGRAPHY SD¹
+http://srv.tvprodigital.net:80/110175/110175/4348
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58492
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NE TV Full_HD
+http://srv.tvprodigital.net:80/110175/110175/60915
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png",NHK SD¹
+http://srv.tvprodigital.net:80/110175/110175/6949
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICK FHD H265
+http://srv.tvprodigital.net:80/110175/110175/61250
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICK HD
+http://srv.tvprodigital.net:80/110175/110175/61123
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png",NICK JR FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11527
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICK JR FHD H265
+http://srv.tvprodigital.net:80/110175/110175/61251
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICK JR HD
+http://srv.tvprodigital.net:80/110175/110175/61125
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png",NICK JR HD¹
+http://srv.tvprodigital.net:80/110175/110175/10260
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICK JR SD
+http://srv.tvprodigital.net:80/110175/110175/61124
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png",NICK JR SD¹
+http://srv.tvprodigital.net:80/110175/110175/4346
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICK SD
+http://srv.tvprodigital.net:80/110175/110175/61122
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",NICKELODEON FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11526
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICKELODEON HD
+http://srv.tvprodigital.net:80/110175/110175/61127
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NICKELODEON SD
+http://srv.tvprodigital.net:80/110175/110175/61126
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",NICKELODEON SD¹
+http://srv.tvprodigital.net:80/110175/110175/4345
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",NOVO TEMPO SD
+http://srv.tvprodigital.net:80/110175/110175/61149
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/novotempo.png",NOVO TEMPO SD¹
+http://srv.tvprodigital.net:80/110175/110175/6948
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",O SHOW DO GARFIELD
+http://srv.tvprodigital.net:80/110175/110175/60720
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png",OFF FHD H265
+http://srv.tvprodigital.net:80/110175/110175/9152
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png",OFF  Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61263
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png",OFF HD ²
+http://srv.tvprodigital.net:80/110175/110175/61066
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png",OFF HD¹
+http://srv.tvprodigital.net:80/110175/110175/6947
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png",OFF SD ²
+http://srv.tvprodigital.net:80/110175/110175/61065
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png",OFF SD¹
+http://srv.tvprodigital.net:80/110175/110175/4344
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58487
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13185
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",PARAMOUNT Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61214
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",PARAMOUNT HD
+http://srv.tvprodigital.net:80/110175/110175/60992
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT HD¹
+http://srv.tvprodigital.net:80/110175/110175/6945
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",PARAMOUNT SD
+http://srv.tvprodigital.net:80/110175/110175/60991
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT SD¹
+http://srv.tvprodigital.net:80/110175/110175/6946
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",PLAY TV SD
+http://srv.tvprodigital.net:80/110175/110175/61185
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/playtv.png",PLAY TV SD¹
+http://srv.tvprodigital.net:80/110175/110175/20617
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/polishoptv.png",POLISHOP TV SD¹
+http://srv.tvprodigital.net:80/110175/110175/4342
+http://srv.tvprodigital.net:80/110175/110175/34920
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/8149
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6093
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61046
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4341
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/9230
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 FHD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61266
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61049
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6092
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61048
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 3 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4340
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11552
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 FHD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61267
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61051
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6091
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61050
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 4 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4339
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/9231
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 FHD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61268
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61053
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6090
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61052
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 5 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4338
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11550
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 FHD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61269
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61055
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 HD¹
+http://srv.tvprodigital.net:80/110175/110175/10259
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61054
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 6 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4337
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11549
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 FHD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61270
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61057
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 7 HD¹
+http://srv.tvprodigital.net:80/110175/110175/10258
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png",SPACE SD¹
+http://srv.tvprodigital.net:80/110175/110175/4328
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11539
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61272
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61062
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6084
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 2 SD
+http://srv.tvprodigital.net:80/110175/110175/61061
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SPORTV 2 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4326
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11538
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61273
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 HD ²
+http://srv.tvprodigital.net:80/110175/110175/61064
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 HD¹
+http://srv.tvprodigital.net:80/110175/110175/6083
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV 3 SD ²
+http://srv.tvprodigital.net:80/110175/110175/61063
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SPORTV 3 SD¹
+http://srv.tvprodigital.net:80/110175/110175/4325
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11563
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61271
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD ²
+http://srv.tvprodigital.net:80/110175/110175/61060
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD¹
+http://srv.tvprodigital.net:80/110175/110175/20544
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV SD ²
+http://srv.tvprodigital.net:80/110175/110175/61059
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV SD¹
+http://srv.tvprodigital.net:80/110175/110175/4327
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",Steven Universe 24HRS
+http://srv.tvprodigital.net:80/110175/110175/34926
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",STUDIO UNIVERSAL FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13194
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",STUDIO UNIVERSAL Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61217
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",STUDIO UNIVERSAL HD
+http://srv.tvprodigital.net:80/110175/110175/60998
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",STUDIO UNIVERSAL HD¹
+http://srv.tvprodigital.net:80/110175/110175/7874
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",STUDIO UNIVERSAL SD
+http://srv.tvprodigital.net:80/110175/110175/60997
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",STUDIO UNIVERSAL SD¹
+http://srv.tvprodigital.net:80/110175/110175/4324
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",SUMMER TV SP
+http://srv.tvprodigital.net:80/110175/110175/60916
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",SYFY FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13195
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",SYFY Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61218
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",SYFY HD
+http://srv.tvprodigital.net:80/110175/110175/61000
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",SYFY HD (LEGENDADO)
+http://srv.tvprodigital.net:80/110175/110175/47758
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",SYFY HD¹
+http://srv.tvprodigital.net:80/110175/110175/7795
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",SYFY SD
+http://srv.tvprodigital.net:80/110175/110175/60999
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",SYFY SD¹
+http://srv.tvprodigital.net:80/110175/110175/4323
+#EXTINF:-1 ,#FIQUE EM CASA
+http://srv.tvprodigital.net:80/110175/110175/58490
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TBS HD
+http://srv.tvprodigital.net:80/110175/110175/61002
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png",TBS HD¹
+http://srv.tvprodigital.net:80/110175/110175/7873
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TBS SD
+http://srv.tvprodigital.net:80/110175/110175/61001
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TCM HD
+http://srv.tvprodigital.net:80/110175/110175/61004
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TCM SD
+http://srv.tvprodigital.net:80/110175/110175/61003
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png",TCM SD¹
+http://srv.tvprodigital.net:80/110175/110175/4321
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58324
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION FHD H265
+http://srv.tvprodigital.net:80/110175/110175/8141
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61219
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58325
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION HD ²
+http://srv.tvprodigital.net:80/110175/110175/61006
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION HD¹
+http://srv.tvprodigital.net:80/110175/110175/6080
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION SD ²
+http://srv.tvprodigital.net:80/110175/110175/61005
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",TELECINE ACTION SD¹
+http://srv.tvprodigital.net:80/110175/110175/4320
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",TELECINE CULT FHD (LEGENDADO)
+http://srv.tvprodigital.net:80/110175/110175/47759
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",TELECINE CULT Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61220
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",TELECINE CULT HD ²
+http://srv.tvprodigital.net:80/110175/110175/61008
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",TELECINE CULT SD ²
+http://srv.tvprodigital.net:80/110175/110175/61007
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",TELECINE CULT SD¹
+http://srv.tvprodigital.net:80/110175/110175/4319
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58328
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN FHD H265
+http://srv.tvprodigital.net:80/110175/110175/11561
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61221
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN HD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58329
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN HD ²
+http://srv.tvprodigital.net:80/110175/110175/61010
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN HD¹
+http://srv.tvprodigital.net:80/110175/110175/6079
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN SD ²
+http://srv.tvprodigital.net:80/110175/110175/61009
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",TELECINE FUN SD¹
+http://srv.tvprodigital.net:80/110175/110175/4318
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58320
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA FHD H265
+http://srv.tvprodigital.net:80/110175/110175/8144
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61222
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58321
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA HD ²
+http://srv.tvprodigital.net:80/110175/110175/61012
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA HD¹
+http://srv.tvprodigital.net:80/110175/110175/6078
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA SD ²
+http://srv.tvprodigital.net:80/110175/110175/61011
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",TELECINE PIPOCA SD¹
+http://srv.tvprodigital.net:80/110175/110175/4317
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM FHD (LEGENDADO)
+http://srv.tvprodigital.net:80/110175/110175/47761
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58322
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM FHD H265
+http://srv.tvprodigital.net:80/110175/110175/8140
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61223
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM HD (LEGENDADO)
+http://srv.tvprodigital.net:80/110175/110175/47762
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58323
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM HD ²
+http://srv.tvprodigital.net:80/110175/110175/61014
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM HD¹
+http://srv.tvprodigital.net:80/110175/110175/6077
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM SD ²
+http://srv.tvprodigital.net:80/110175/110175/61013
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",TELECINE PREMIUM SD¹
+http://srv.tvprodigital.net:80/110175/110175/4316
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH FHD H264 (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58326
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH FHD H265
+http://srv.tvprodigital.net:80/110175/110175/25016
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH Full_HD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61224
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/110175/110175/58327
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH HD ²
+http://srv.tvprodigital.net:80/110175/110175/61016
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH HD¹
+http://srv.tvprodigital.net:80/110175/110175/6076
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH SD ²
+http://srv.tvprodigital.net:80/110175/110175/61015
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",TELECINE TOUCH SD¹
+http://srv.tvprodigital.net:80/110175/110175/4315
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/terraviva.png",TERRA VIVA SD¹
+http://srv.tvprodigital.net:80/110175/110175/6936
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",The Weather Channel HD
+http://srv.tvprodigital.net:80/110175/110175/61145
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",The Weather Channel SD
+http://srv.tvprodigital.net:80/110175/110175/61144
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",Thundercats 24HRS
+http://srv.tvprodigital.net:80/110175/110175/34929
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TIMAO E PUMBA 24HRS
+http://srv.tvprodigital.net:80/110175/110175/34930
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TLC HD
+http://srv.tvprodigital.net:80/110175/110175/61179
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png",TLC HD¹
+http://srv.tvprodigital.net:80/110175/110175/24786
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TLC SD
+http://srv.tvprodigital.net:80/110175/110175/61178
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png",TLC SD¹
+http://srv.tvprodigital.net:80/110175/110175/4313
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13181
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TNT Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61225
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TNT HD
+http://srv.tvprodigital.net:80/110175/110175/61018
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT HD¹
+http://srv.tvprodigital.net:80/110175/110175/6074
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TNT SD
+http://srv.tvprodigital.net:80/110175/110175/61017
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT SD¹
+http://srv.tvprodigital.net:80/110175/110175/4312
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES FHD H265
+http://srv.tvprodigital.net:80/110175/110175/13186
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TNT SERIES Full_HD H265
+http://srv.tvprodigital.net:80/110175/110175/61226
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TNT SERIES HD
+http://srv.tvprodigital.net:80/110175/110175/61020
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES HD¹
+http://srv.tvprodigital.net:80/110175/110175/6073
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TNT SERIES SD
+http://srv.tvprodigital.net:80/110175/110175/61019
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES SD¹
+http://srv.tvprodigital.net:80/110175/110175/4311
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png",TOONCAST FHD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61252
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png",TOONCAST HD ²
+http://srv.tvprodigital.net:80/110175/110175/61129
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png",TOONCAST SD ²
+http://srv.tvprodigital.net:80/110175/110175/61128
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png",TOONCAST SD¹
+http://srv.tvprodigital.net:80/110175/110175/4310
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TRU TV HD
+http://srv.tvprodigital.net:80/110175/110175/61181
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TRUTV SD
+http://srv.tvprodigital.net:80/110175/110175/61180
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/trutv.png",TRUTV SD¹
+http://srv.tvprodigital.net:80/110175/110175/6935
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TV APARECIDA FHD
+http://srv.tvprodigital.net:80/110175/110175/45593
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TV APARECIDA HD
+http://srv.tvprodigital.net:80/110175/110175/45592
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png",TV APARECIDA HD
+http://srv.tvprodigital.net:80/110175/110175/61153
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png",TV APARECIDA SD
+http://srv.tvprodigital.net:80/110175/110175/61150
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_rede_aparecida_comunicacao.png",TV APARECIDA SD¹
+http://srv.tvprodigital.net:80/110175/110175/4438
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="https://e.tvproweb.com/4cs",TV APERIPER  ARACAJU HD¹
+http://srv.tvprodigital.net:80/110175/110175/24753
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png",TV ARATU SBT BAHIA HD¹
+http://srv.tvprodigital.net:80/110175/110175/30428
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",Tv Assembleia Ceara SD
+http://srv.tvprodigital.net:80/110175/110175/60920
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TV Brasil DF
+http://srv.tvprodigital.net:80/110175/110175/60906
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png",TV CABRALIA RECORD BAHIA HD¹
+http://srv.tvprodigital.net:80/110175/110175/30429
+#EXTINF:-1 group-title="CANAIS RESERVAS 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/57714c5d2d3650532f7eb9a6.png",TV CAMARA SD¹
+http://srv.tvprodigital.net:80/110175/110175/10245
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",Tv Capital 777 SP SD
+http://srv.tvprodigital.net:80/110175/110175/60925
+#EXTINF:-1 group-title="CANAIS RESERVAS 1",TV Caruaru PE
+http://srv.tvprodigital.net:80/110175/110175/60912
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/ae.png",A&E HD
+http://tvaz.top:80/martins/123456/68835
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/arte1.png",Arte 1 HD
+http://tvaz.top:80/martins/123456/69148
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/axn.png",AXN HD
+http://tvaz.top:80/martins/123456/68839
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/babytv.png",Baby HD
+http://tvaz.top:80/martins/123456/69031
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/bandnews.png",Band News HD
+http://tvaz.top:80/martins/123456/69071
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/bandsports.png",Band Sports HD
+http://tvaz.top:80/martins/123456/69109
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/bis.png",BIS HD
+http://tvaz.top:80/martins/123456/69151
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/boomerang.png",Boomerang HD
+http://tvaz.top:80/martins/123456/69034
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/canalbrasil.png",Canal Brasil HD
+http://tvaz.top:80/martins/123456/69155
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/cartoonnetwork.png",Cartoon Network HD
+http://tvaz.top:80/martins/123456/69037
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg",Chef TV HD
+http://tvaz.top:80/martins/123456/69158
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/cinemax.png",Cinemax HD
+http://tvaz.top:80/martins/123456/68842
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://www.positivelypat.com/wp-content/uploads/2011/11/CNN-300x187.png",CNN Espanhol HD
+http://tvaz.top:80/martins/123456/69074
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/744px-CNN-International-Logo.svg.png",CNN Internacional HD
+http://tvaz.top:80/martins/123456/69077
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/combate.png",Combate HD
+http://tvaz.top:80/martins/123456/69113
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/comedycentral.png",Comedy Central HD
+http://tvaz.top:80/martins/123456/69161
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/canalcurta.png",Curta! HD
+http://tvaz.top:80/martins/123456/69164
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverychannel.png",Discovery Channel HD
+http://tvaz.top:80/martins/123456/68792
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverycivilization.png",Discovery Civilization HD
+http://tvaz.top:80/martins/123456/68795
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryhomehealth.png",Discovery Home & Health HD
+http://tvaz.top:80/martins/123456/68798
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/investigationdiscovery.png",Discovery ID HD
+http://tvaz.top:80/martins/123456/68801
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverykids.png",Discovery Kids HD
+http://tvaz.top:80/martins/123456/69040
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryscience.png",Discovery Science HD
+http://tvaz.top:80/martins/123456/68807
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverytheater.png",Discovery Theather HD
+http://tvaz.top:80/martins/123456/68810
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryturbo.png",Discovery Turbo HD
+http://tvaz.top:80/martins/123456/68813
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryworld.png",Discovery World HD
+http://tvaz.top:80/martins/123456/68816
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/disneychannel.png",Disney Channel HD
+http://tvaz.top:80/martins/123456/69043
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/disneyjunior.png",Disney JR HD
+http://tvaz.top:80/martins/123456/69046
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/disneyxd.png",Disney XD HD
+http://tvaz.top:80/martins/123456/69049
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/e.png",E! HD
+http://tvaz.top:80/martins/123456/69168
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/espn.png",ESPN 2 HD
+http://tvaz.top:80/martins/123456/69116
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/espnbrasil.png",ESPN Brasil HD
+http://tvaz.top:80/martins/123456/69119
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/espnmais.png",ESPN Extra HD
+http://tvaz.top:80/martins/123456/69121
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/espn.png",ESPN HD
+http://tvaz.top:80/martins/123456/69124
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/fishtv.png",Fish TV HD
+http://tvaz.top:80/martins/123456/69171
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foodnetwork.png",Food Network HD
+http://tvaz.top:80/martins/123456/69174
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxchannel.png",FOX HD
+http://tvaz.top:80/martins/123456/68845
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxlife.png",Fox Life HD
+http://tvaz.top:80/martins/123456/68847
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxpremium1.png",Fox Premium 1 HD
+http://tvaz.top:80/martins/123456/68850
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxpremium2.png",Fox Premium 2 HD
+http://tvaz.top:80/martins/123456/68852
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxsports.png",Fox Sport HD
+http://tvaz.top:80/martins/123456/69126
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxsports2.png",Fox Sports 2 HD
+http://tvaz.top:80/martins/123456/69128
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/fx.png",FX HD
+http://tvaz.top:80/martins/123456/68855
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png",Globo SP HD
+http://tvaz.top:80/martins/123456/68933
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/globonews.png",Globo News HD
+http://tvaz.top:80/martins/123456/69081
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/gloob.png",Gloob HD
+http://tvaz.top:80/martins/123456/69052
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/gloobinho.png",Gloobinho HD
+http://tvaz.top:80/martins/123456/69055
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/gnt.png",GNT HD
+http://tvaz.top:80/martins/123456/69178
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/history2.png",H2 HD
+http://tvaz.top:80/martins/123456/68820
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hbofamily.png",HBO Family HD
+http://tvaz.top:80/martins/123456/69019
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hbo.png",HBO HD
+http://tvaz.top:80/martins/123456/69022
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hboplus.png",HBO Plus HD
+http://tvaz.top:80/martins/123456/69024
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hbosignature.png",HBO Signature HD
+http://tvaz.top:80/martins/123456/69028
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="https://cdn.mitvstatic.com/channels/br_i-sat_m.png",i SAT HD
+http://tvaz.top:80/martins/123456/69181
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/lifetime.png",Lifetime HD
+http://tvaz.top:80/martins/123456/69185
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/maisglobosat.png",Mais Globosat HD
+http://tvaz.top:80/martins/123456/69188
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/max.png",MAX HD
+http://tvaz.top:80/martins/123456/68859
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/maxprime.png",Max Prime HD
+http://tvaz.top:80/martins/123456/68861
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/maxup.png",Max UP HD
+http://tvaz.top:80/martins/123456/68865
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/megapix.png",Megapix HD
+http://tvaz.top:80/martins/123456/68868
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/mtv.png",MTV HD
+http://tvaz.top:80/martins/123456/69191
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/multishow.png",Multishow HD
+http://tvaz.top:80/martins/123456/69194
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/musicboxbrasil.png",Music Box Brasil HD
+http://tvaz.top:80/martins/123456/69197
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeo.png",Natgeo HD
+http://tvaz.top:80/martins/123456/68823
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeokids.png",Natgeo Kids HD
+http://tvaz.top:80/martins/123456/69058
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeowild.png",Natgeo Wild HD
+http://tvaz.top:80/martins/123456/68826
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/nick.png",Nick HD
+http://tvaz.top:80/martins/123456/69061
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/nickjr.png",Nick JR HD
+http://tvaz.top:80/martins/123456/69063
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/off.png",OFF HD
+http://tvaz.top:80/martins/123456/69203
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/paramountchannel.png",Paramount Channel HD
+http://tvaz.top:80/martins/123456/69206
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/playtv.png",Play TV HD
+http://tvaz.top:80/martins/123456/69209
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 HD
+http://tvaz.top:80/martins/123456/69087
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 HD
+http://tvaz.top:80/martins/123456/69090
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 HD
+http://tvaz.top:80/martins/123456/69093
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 HD
+http://tvaz.top:80/martins/123456/69096
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 6 HD
+http://tvaz.top:80/martins/123456/69099
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 7 HD
+http://tvaz.top:80/martins/123456/69102
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",PREMIERE CLUBES HD
+http://tvaz.top:80/martins/123456/69106
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/primeboxbrasil.png",Prime Box Brasil HD
+http://tvaz.top:80/martins/123456/69213
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/recordnews.png",Record News HD
+http://tvaz.top:80/martins/123456/69084
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/redetv.png",Rede TV HD
+http://tvaz.top:80/martins/123456/68762
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sbt.png",SBT HD
+http://tvaz.top:80/martins/123456/68766
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sony.png",Sony HD
+http://tvaz.top:80/martins/123456/68871
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/space.png",Space HD
+http://tvaz.top:80/martins/123456/68874
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv2.png",SporTV 2 HD
+http://tvaz.top:80/martins/123456/69139
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv3.png",SporTV 3 HD
+http://tvaz.top:80/martins/123456/69142
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv.png",SporTV HD
+http://tvaz.top:80/martins/123456/69145
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/studiouniversal.png",Studio Universal HD
+http://tvaz.top:80/martins/123456/68877
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/syfy1.png",SYFY HD
+http://tvaz.top:80/martins/123456/68880
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tbs.png",TBS HD
+http://tvaz.top:80/martins/123456/68883
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcaction.png",TC Action HD
+http://tvaz.top:80/martins/123456/68710
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tccult.png",TC Cult HD
+http://tvaz.top:80/martins/123456/68713
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcfun.png",TC Fun HD
+http://tvaz.top:80/martins/123456/68716
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcpipoca.png",TC Pipoca HD
+http://tvaz.top:80/martins/123456/68719
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcpremium.png",TC Premium HD
+http://tvaz.top:80/martins/123456/68722
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tctouch.png",TC Touch HD
+http://tvaz.top:80/martins/123456/68725
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcm.png",TCM HD
+http://tvaz.top:80/martins/123456/68886
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/history.png",The History HD
+http://tvaz.top:80/martins/123456/68829
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tlc.png",TLC HD
+http://tvaz.top:80/martins/123456/68889
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tnt.png",TNT HD
+http://tvaz.top:80/martins/123456/68892
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tntseries.png",TNT Series HD
+http://tvaz.top:80/martins/123456/68895
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tooncast.png",Tooncast HD
+http://tvaz.top:80/martins/123456/69067
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/trutv.png",True TV HD
+http://tvaz.top:80/martins/123456/68832
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://1.bp.blogspot.com/-GZX6dzp0hgE/T_ybE0xP4xI/AAAAAAAA5Q4/YBgCtmkvqPY/s1600/tv%2Bra%2Blogo.jpg",TV Ra Tim Bum HD
+http://tvaz.top:80/martins/123456/68784
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/universalchannel.png",Universal Channel HD
+http://tvaz.top:80/martins/123456/68899
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/vh1.png",VH1 Mega Hits HD
+http://tvaz.top:80/martins/123456/69228
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/canalviva.png",Viva HD
+http://tvaz.top:80/martins/123456/69231
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/warnerchannel.png",Warner Channel HD
+http://tvaz.top:80/martins/123456/68902
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/record.png",Record  HD
+http://tvaz.top:80/martins/123456/68744
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hbo2.png",HBO 2 HD
+http://tvaz.top:80/martins/123456/69016
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/dazn.png",DAZN1 HD
+http://tvaz.top:80/martins/123456/71806
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",LIBERTADORES HD
+http://tvaz.top:80/martins/123456/71819
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",CNN BRASIL HD
+http://tvaz.top:80/martins/123456/72752
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png",GLOBO RJ HD
+http://tvaz.top:80/martins/123456/72755
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/ae.png",A&E FHD
+http://tvaz.top:80/martins/123456/68834
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/animalplanet.png",Animal Planet FHD
+http://tvaz.top:80/martins/123456/68788
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/arte1.png",Arte 1 FHD
+http://tvaz.top:80/martins/123456/69147
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/axn.png",AXN FHD
+http://tvaz.top:80/martins/123456/68838
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/babytv.png",Baby FHD
+http://tvaz.top:80/martins/123456/69030
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/band.png",Band FHD
+http://tvaz.top:80/martins/123456/68728
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/bandnews.png",Band News FHD
+http://tvaz.top:80/martins/123456/69070
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/bandsports.png",Band Sports FHD
+http://tvaz.top:80/martins/123456/69108
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/bis.png",BIS FHD
+http://tvaz.top:80/martins/123456/69150
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/boomerang.png",Boomerang FHD
+http://tvaz.top:80/martins/123456/69033
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/canalbrasil.png",Canal Brasil FHD
+http://tvaz.top:80/martins/123456/69154
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/cartoonnetwork.png",Cartoon Network FHD
+http://tvaz.top:80/martins/123456/69036
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg",Chef TV FHD
+http://tvaz.top:80/martins/123456/69157
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/cinemax.png",Cinemax FHD
+http://tvaz.top:80/martins/123456/68841
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN Espanhol FHD
+http://tvaz.top:80/martins/123456/69073
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",CNN Internacional FHD
+http://tvaz.top:80/martins/123456/69076
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/combate.png",Combate FHD
+http://tvaz.top:80/martins/123456/69112
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/comedycentral.png",Comedy Central FHD
+http://tvaz.top:80/martins/123456/69160
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/canalcurta.png",Curta! FHD
+http://tvaz.top:80/martins/123456/69163
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverychannel.png",Discovery Channel FHD
+http://tvaz.top:80/martins/123456/68791
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverycivilization.png",Discovery Civilization FHD
+http://tvaz.top:80/martins/123456/68794
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryhomehealth.png",Discovery Home & Health FHD
+http://tvaz.top:80/martins/123456/68797
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/investigationdiscovery.png",Discovery ID FHD
+http://tvaz.top:80/martins/123456/68800
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverykids.png",Discovery Kids FHD
+http://tvaz.top:80/martins/123456/69039
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryscience.png",Discovery Science FHD
+http://tvaz.top:80/martins/123456/68806
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoverytheater.png",Discovery Theather FHD
+http://tvaz.top:80/martins/123456/68809
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryturbo.png",Discovery Turbo FHD
+http://tvaz.top:80/martins/123456/68812
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/discoveryworld.png",Discovery World FHD
+http://tvaz.top:80/martins/123456/68815
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/disneychannel.png",Disney Channel FHD
+http://tvaz.top:80/martins/123456/69042
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/disneyjunior.png",Disney JR FHD
+http://tvaz.top:80/martins/123456/69045
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/disneyxd.png",Disney XD FHD
+http://tvaz.top:80/martins/123456/69048
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/e.png",E! FHD
+http://tvaz.top:80/martins/123456/69167
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/espn.png",ESPN 2 FHD
+http://tvaz.top:80/martins/123456/69115
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/espnbrasil.png",ESPN Brasil FHD
+http://tvaz.top:80/martins/123456/69118
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/espn.png",ESPN FHD
+http://tvaz.top:80/martins/123456/69123
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/fishtv.png",Fish TV FHD
+http://tvaz.top:80/martins/123456/69170
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foodnetwork.png",Food Network FHD
+http://tvaz.top:80/martins/123456/69173
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxchannel.png",FOX FHD
+http://tvaz.top:80/martins/123456/68844
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxlife.png",Fox Life FHD
+http://tvaz.top:80/martins/123456/68846
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxpremium1.png",Fox Premium 1 FHD
+http://tvaz.top:80/martins/123456/68849
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxpremium2.png",Fox Premium 2 FHD
+http://tvaz.top:80/martins/123456/68851
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxsports2.png",Fox Sports 2 FHD
+http://tvaz.top:80/martins/123456/69127
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/foxsports.png",Fox Sports FHD
+http://tvaz.top:80/martins/123456/69130
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/fx.png",FX FHD
+http://tvaz.top:80/martins/123456/68854
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/globo.png",Globo SP FHD
+http://tvaz.top:80/martins/123456/68932
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/globonews.png",Globo News FHD
+http://tvaz.top:80/martins/123456/68934
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/gloob.png",Gloob FHD
+http://tvaz.top:80/martins/123456/69051
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/gnt.png",GNT FHD
+http://tvaz.top:80/martins/123456/69177
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/history2.png",H2 FHD
+http://tvaz.top:80/martins/123456/68819
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hbo2.png",HBO 2 FHD
+http://tvaz.top:80/martins/123456/69015
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hbo.png",HBO FHD
+http://tvaz.top:80/martins/123456/69021
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hboplus.png",HBO Plus FHD
+http://tvaz.top:80/martins/123456/69023
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/hbosignature.png",HBO Signature FHD
+http://tvaz.top:80/martins/123456/69027
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/isat.png",i SAT FHD
+http://tvaz.top:80/martins/123456/69180
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/lifetime.png",Lifetime FHD
+http://tvaz.top:80/martins/123456/69184
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/maisglobosat.png",Mais Globosat FHD
+http://tvaz.top:80/martins/123456/69187
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/max.png",MAX FHD
+http://tvaz.top:80/martins/123456/68857
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/maxprime.png",Max Prime FHD
+http://tvaz.top:80/martins/123456/68860
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/maxup.png",Max UP FHD
+http://tvaz.top:80/martins/123456/68864
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/megapix.png",Megapix FHD
+http://tvaz.top:80/martins/123456/68867
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/mtv.png",MTV FHD
+http://tvaz.top:80/martins/123456/69190
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/multishow.png",Multishow FHD
+http://tvaz.top:80/martins/123456/69193
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/musicboxbrasil.png",Music Box Brasil FHD
+http://tvaz.top:80/martins/123456/69196
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeo.png",Natgeo FHD
+http://tvaz.top:80/martins/123456/68822
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeokids.png",Natgeo Kids FHD
+http://tvaz.top:80/martins/123456/69057
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/natgeo.png",Natgeo Wild FHD
+http://tvaz.top:80/martins/123456/68825
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/nick.png",Nick FHD
+http://tvaz.top:80/martins/123456/69060
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/nickjr.png",Nick JR FHD
+http://tvaz.top:80/martins/123456/69062
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/off.png",OFF FHD
+http://tvaz.top:80/martins/123456/69202
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/paramountchannel.png",Paramount Channel FHD
+http://tvaz.top:80/martins/123456/69205
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/playtv.png",Play TV FHD
+http://tvaz.top:80/martins/123456/69208
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 FHD
+http://tvaz.top:80/martins/123456/69086
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 FHD
+http://tvaz.top:80/martins/123456/69089
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 FHD
+http://tvaz.top:80/martins/123456/69092
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 FHD
+http://tvaz.top:80/martins/123456/69095
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 6 FHD
+http://tvaz.top:80/martins/123456/69098
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 7 FHD
+http://tvaz.top:80/martins/123456/69101
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere Clubes FHD
+http://tvaz.top:80/martins/123456/69105
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/primeboxbrasil.png",Prime Box Brasil FHD
+http://tvaz.top:80/martins/123456/69212
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/record.png",Record  FHD
+http://tvaz.top:80/martins/123456/68743
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/recordnews.png",Record News FHD
+http://tvaz.top:80/martins/123456/69083
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/redetv.png",Rede TV FHD
+http://tvaz.top:80/martins/123456/68761
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sbt.png",SBT FHD
+http://tvaz.top:80/martins/123456/68765
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sony.png",Sony FHD
+http://tvaz.top:80/martins/123456/68870
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/space.png",Space FHD
+http://tvaz.top:80/martins/123456/68873
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv2.png",SporTV 2 FHD
+http://tvaz.top:80/martins/123456/69138
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv3.png",SporTV 3 FHD
+http://tvaz.top:80/martins/123456/69141
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/sportv.png",SporTV FHD
+http://tvaz.top:80/martins/123456/69144
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/studiouniversal.png",Studio Universal FHD
+http://tvaz.top:80/martins/123456/68876
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/syfy1.png",SYFY FHD
+http://tvaz.top:80/martins/123456/68879
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tbs.png",TBS FHD
+http://tvaz.top:80/martins/123456/68882
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcaction.png",TC ACTION FHD
+http://tvaz.top:80/martins/123456/68709
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tccult.png",TC Cult FHD
+http://tvaz.top:80/martins/123456/68712
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcfun.png",TC Fun FHD
+http://tvaz.top:80/martins/123456/68715
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcpipoca.png",TC Pipoca FHD
+http://tvaz.top:80/martins/123456/68718
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcpremium.png",TC Premium FHD
+http://tvaz.top:80/martins/123456/68721
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tctouch.png",TC Touch FHD
+http://tvaz.top:80/martins/123456/68724
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tcm.png",TCM FHD
+http://tvaz.top:80/martins/123456/68885
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/history.png",The History FHD
+http://tvaz.top:80/martins/123456/68828
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tlc.png",TLC FHD
+http://tvaz.top:80/martins/123456/68888
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tnt.png",TNT FHD
+http://tvaz.top:80/martins/123456/68891
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tntseries.png",TNT Series FHD
+http://tvaz.top:80/martins/123456/68894
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tooncast.png",Tooncast FHD
+http://tvaz.top:80/martins/123456/69066
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png",True TV FHD
+http://tvaz.top:80/martins/123456/68831
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://1.bp.blogspot.com/-GZX6dzp0hgE/T_ybE0xP4xI/AAAAAAAA5Q4/YBgCtmkvqPY/s1600/tv%2Bra%2Blogo.jpg",TV Ra Tim Bum FHD
+http://tvaz.top:80/martins/123456/68783
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/studiouniversal.png",Universal Channel FHD
+http://tvaz.top:80/martins/123456/68898
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/vh1.png",VH1 Mega Hits FHD
+http://tvaz.top:80/martins/123456/69227
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/canalviva.png",Viva FHD
+http://tvaz.top:80/martins/123456/69230
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/warnerchannel.png",Warner Channel FHD
+http://tvaz.top:80/martins/123456/68901
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/dazn.png",DAZN1 FHD
+http://tvaz.top:80/martins/123456/71549
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",RECORD SP HD
+http://tvaz.top:80/martins/123456/71809
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",LIBERTADORES FHD
+http://tvaz.top:80/martins/123456/71810
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",RECORD RJ HD
+http://tvaz.top:80/martins/123456/71811
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",CNN BRASIL FHD
+http://tvaz.top:80/martins/123456/71821
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://youstream.xyz/canais/img/tv camara.png",TV CAMARA
+http://tvaz.top:80/martins/123456/71910
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tvaparecida.png",TV APARECIDA
+http://tvaz.top:80/martins/123456/71911
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tvnovotempo.png",TV NOVO TEMPO
+http://tvaz.top:80/martins/123456/71912
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",TV GIDEOES
+http://tvaz.top:80/martins/123456/71913
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/redevida.png",REDE VIDA
+http://tvaz.top:80/martins/123456/71914
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/cancaonova.png",CANCAO NOVA
+http://tvaz.top:80/martins/123456/71915
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",TV EVANGELIZAR
+http://tvaz.top:80/martins/123456/71916
+#EXTINF:-1 group-title="CANAIS RESERVAS 2",TV FAAP
+http://tvaz.top:80/martins/123456/71919
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/terraviva.png",TERRA VIVA
+http://tvaz.top:80/martins/123456/71920
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tvjustica.png",TV JUSTICA
+http://tvaz.top:80/martins/123456/71921
+#EXTINF:-1 group-title="CANAIS RESERVAS 2" tvg-logo="http://painelgerenciador.com.br/logos/img/tvsenado.png",TV SENADO
+http://tvaz.top:80/martins/123456/71922
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX :PLAY BOY HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32409
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: BRAZZERS EUROPE HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32420
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: PLAYBOY SD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32411
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: SEX PRIVE²
+http://brasiltv2020.live:80/deyamedeiros/121148/32412
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: SEX ZONE HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32413
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: SEX ZONE SD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32414
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: SEXTREME HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32415
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: SEXTREME SD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32416
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: SEXY HOT SD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32417
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: VENUS HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32418
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX: VENUS SD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32419
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:EROTIC HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32421
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:JASMIN HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32423
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:PASSIE HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32424
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:PLAYBOY SD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32371
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:RED LIGHT HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32426
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:SEXTREME HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32427
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:SEXY HOT HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32428
+#EXTINF:-1 group-title="CANAIS | ADULTOS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-18-png-17.png",XXX:VENUS HD²
+http://brasiltv2020.live:80/deyamedeiros/121148/32430
